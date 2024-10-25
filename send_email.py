@@ -26,7 +26,7 @@ def main():
         # Create the message body
         email_body = (
             f'Please find the attached test results from the latest automation run for flight data from {from_data} to {to_data}.\n\n'
-            'Check project details on GitHub: https://github.com/aditya1123mp/make_my_trip_flight_data_automation'
+            'Check project details on GitHub: https://github.com/aditya1123mp/flight_data_automation_using_python/tree/master'
         )
         message.attach(MIMEText(email_body, 'plain'))
 

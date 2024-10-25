@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc833b08-7584-4ce3-8981-8bc11fbccad4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/flight_data_automation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/access_makemytrip_site.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fulltestcase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get_flight_data_for_20_days.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getting_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_flight_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/save_data_in_excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/send_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_case_to_close_the_data_window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_case_to_input_data_in_data_fileds.py" afterDir="false" />
+    <list default="true" id="cc833b08-7584-4ce3-8981-8bc11fbccad4" name="Changes" comment="commit for flight data automation using python">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/send_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/send_email.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;aditya1123mp&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/aditya1123mp/flight_data_automation_using_python&quot;,
+    &quot;accountId&quot;: &quot;3081e791-d25f-4c29-9b1b-6aba9f119c75&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -187,6 +186,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729076576097</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit for flight data automation using python">
+      <option name="closed" value="true" />
+      <created>1729845877713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729845877713</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit for flight data automation using python" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit for flight data automation using python" />
   </component>
 </project>
